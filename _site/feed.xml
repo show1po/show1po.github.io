@@ -3,11 +3,11 @@
   <channel>
     <title></title>
     <description></description>
-    <link>https://show1po.github.io//</link>
-    <atom:link href="https://show1po.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2016 15:44:04 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 15:44:04 +0800</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Nov 2016 13:52:56 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Nov 2016 13:52:56 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Boy was in the hallway drinking a glass of tea.</title>
@@ -20,8 +20,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post6/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post6/</guid>
+        <link>http://localhost:4000/blog/post6/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post6/</guid>
         
         <category>human</category>
         
@@ -43,8 +43,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post5/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post5/</guid>
+        <link>http://localhost:4000/blog/post5/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post5/</guid>
         
         <category>human</category>
         
@@ -64,8 +64,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post4/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post4/</guid>
+        <link>http://localhost:4000/blog/post4/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post4/</guid>
         
         <category>human</category>
         
@@ -85,8 +85,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post3/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post3/</guid>
+        <link>http://localhost:4000/blog/post3/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post3/</guid>
         
         <category>human</category>
         
@@ -113,8 +113,8 @@
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post2/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post2/</guid>
+        <link>http://localhost:4000/blog/post2/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post2/</guid>
         
         <category>rocky</category>
         
@@ -134,8 +134,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Dec 2015 00:00:00 +0800</pubDate>
-        <link>https://show1po.github.io//blog/post1/</link>
-        <guid isPermaLink="true">https://show1po.github.io//blog/post1/</guid>
+        <link>http://localhost:4000/blog/post1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post1/</guid>
         
         <category>human</category>
         
